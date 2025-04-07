@@ -6,6 +6,14 @@
 - 😄 Pronombres: Él
 - ⚡ Dato curioso: Me encanta resolver problemas reales con código y tengo una gran pasión por escribir código limpio y mantenible.
 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+---
+
 
 <!---
 ElisandroFlores123/ElisandroFlores123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
