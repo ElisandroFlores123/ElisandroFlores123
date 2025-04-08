@@ -4,7 +4,7 @@ Soy un apasionado del desarrollo **backend** enfocado en crear soluciones eficie
 
 ## 🚀 ¿En qué estoy trabajando?
 
-- Aprendiendo temas avanzados en **C#** como LINQ, async/await y delegados.
+- Aprendiendo temas avanzados en **C#**.
 - Profundizando en el patrón **MVC con ASP.NET Core** para crear aplicaciones web organizadas y modulares.
 - Mejorando mis habilidades en **Java** (Programación Orientada a Objetos).
 - Optimizando consultas SQL en **SQL Server** y **MySQL**.
